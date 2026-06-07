@@ -1,6 +1,6 @@
 # YZ Tool V6 - Premium 🚀
 
-🔗 **[👉 CLICK HERE TO USE YZ TOOL V6 👈](https://ya2umi12.github.io/)**
+🔗 **[👉 CLICK HERE TO USE YZ TOOL V6 👈](https://ya2umi12.github.io/yz-tool/)**
 
 A powerful, browser-based video processing tool designed to bypass compression algorithms and maintain full 60fps quality for TikTok uploads.
 
